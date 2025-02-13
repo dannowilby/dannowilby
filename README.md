@@ -1,4 +1,4 @@
-I like math and programming.
+I like math and programming. I automate things.
 
 [dywilby.io](https://dywilby.io)
 
