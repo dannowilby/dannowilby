@@ -1,4 +1,4 @@
-I like math and programming. I automate things.
+Backend Engineer currently training coding LLMs.
 
 [dywilby.io](https://dywilby.io)
 
