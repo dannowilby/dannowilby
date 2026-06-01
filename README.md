@@ -11,27 +11,12 @@ Currently looking for new opportunities.
 
 ## Projects I'm proud of
 
-- **mcrs** - One line description. [Live demo](link) | [Code](link)
-- **gorp** - One line description. [Live demo](link) | [Code](link)
-- **mr-wasm** - One line description. [Live demo](link) | [Code](link)
-- **k8s-test** - One line description. [Live demo](link) | [Code](link)
-- **chord-kvs** - One line description. [Live demo](link) | [Code](link)
+- **gorp** - Raft implementation that powers my family's local backups. [Live demo](link) | [Code](link)
+- **mr-wasm** - Fault-tolerant MapReduce implementation that runs user code with WASM. [Live demo](link) | [Code](link)
+- **mcrs** - Minecraft-clone in Rust. [Live demo](link) | [Code](link)
+- **k8s-test** - Demonstration of my thought process when developing. [Live demo](link) | [Code](link)
+- **chord-kvs** - Fault-tolerant and sharded KV-store. [Live demo](link) | [Code](link)
 
 ## Get in touch
 
 [LinkedIn](https://linkedin.com/in/daniel-wilby) · [Portfolio](https://daniel-wilby.com/)
-
-<!--
-**dannowilby/dannowilby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
