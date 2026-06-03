@@ -16,7 +16,7 @@ Currently looking for new opportunities.
 - **gorp** - Raft implementation that powers my family's local backups. [Live demo](link) | [Code](link)
 - **mr-wasm** - Fault-tolerant MapReduce implementation that runs user code with WASM. [Live demo](link) | [Code](link)
 - **mcrs** - Minecraft-clone in Rust. [Live demo](link) | [Code](link)
-- **k8s-test** - Demonstration of my thought process when developing. [Live demo](link) | [Code](link)
+- **k8s-test** - Demonstration of my thought process when developing/prototyping. [Live demo](link) | [Code](link)
 - **chord-kvs** - Fault-tolerant and sharded KV-store. [Live demo](link) | [Code](link)
 
 ## Get in touch
